@@ -6,9 +6,9 @@
 
 ### Numpy data type
 
-!Numpy(https://github.com/niehmanyo/ML_training/blob/mac-ML/Numpy_tutorials/data_type_numpy.png)
+![](https://github.com/niehmanyo/ML_training/blob/mac-ML/Numpy_tutorials/data_type_numpy.png)
 
-!Python(https://github.com/niehmanyo/ML_training/blob/mac-ML/Numpy_tutorials/data_type_python.png)
+![](https://github.com/niehmanyo/ML_training/blob/mac-ML/Numpy_tutorials/data_type_python.png)
 
 #### References:
 
