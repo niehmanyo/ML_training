@@ -6,10 +6,7 @@ Matplotlib is a low level graph plotting library in python that serves as a visu
 
 ![logo](https://github.com/niehmanyo/ML_training/blob/mac-ML/py_tutorials/Matplotlib_tutorials/Matplotlib_logo.svg.png)
 
-
 Task
 - [ ] Understand 
 - [ ] Utilize in code
-```python
 
-```
