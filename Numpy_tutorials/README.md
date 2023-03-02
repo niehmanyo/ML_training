@@ -6,9 +6,34 @@
 
 ### Numpy data type
 
-![](https://github.com/niehmanyo/ML_training/blob/mac-ML/Numpy_tutorials/data_type_numpy.png)
+![](./data_type_numpy.png)
 
-![](https://github.com/niehmanyo/ML_training/blob/mac-ML/Numpy_tutorials/data_type_python.png)
+![](./data_type_python.png)
+
+
+### Python map()
+
+__map__ function is important to draw a graph and it is useful.
+
+__Definition and Usage__ : The *map()* function execute a specified function for each item in an iterable.
+The item is sent to function as a parameter
+
+__Syntax__
+```python
+    map(function,iterable)
+```
+
+![](./parameters.png)
+
+__Example__
+
+```python
+    def func(n):
+        return len(n)
+    ## a function definition
+
+    x = map(func,('apple','cherry'))
+```
 
 #### References:
 
