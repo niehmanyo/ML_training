@@ -6,9 +6,10 @@
 
 ### Numpy data type
 
-![](https://github.com/niehmanyo/ML_training/blob/mac-ML/Numpy_tutorials/data_type_numpy.png)
+![](./data_type_numpy.png)
 
-![](https://github.com/niehmanyo/ML_training/blob/mac-ML/Numpy_tutorials/data_type_python.png)
+![](./data_type_python.png)
+
 
 ### Python map()
 
